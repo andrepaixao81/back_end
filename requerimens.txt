@@ -1,0 +1,5 @@
+SQLAlchemy==1.4.41
+mock-alchem
+flask
+pytest
+alembic
