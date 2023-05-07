@@ -8,7 +8,7 @@ Será necessário ter todas as libs python listadas no requirements.txt instalad
 
 É fortemente indicado o uso de ambientes virtuais do tipo virtualenv.
 
-(env)$ pip install -r requirements.txt
+(env)$ pip install -r requiremens.txt
 
 Este comando instala as dependências/bibliotecas, descritas no arquivo requirements.txt.
 
